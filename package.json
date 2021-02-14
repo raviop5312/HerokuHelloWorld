@@ -1,0 +1,27 @@
+{
+  "name": "herokuhelloworld",
+  "version": "1.0.0",
+  "description": "Just testing a Node APP on Heroku. Nothing more here, this does not need a vault.",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviop5312/HerokuHelloWorld.git"
+  },
+  "keywords": [
+    "Heroku",
+    "Hello",
+    "World"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raviop5312/HerokuHelloWorld/issues"
+  },
+  "homepage": "https://github.com/raviop5312/HerokuHelloWorld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
